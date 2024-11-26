@@ -1,2 +1,3 @@
 com\currencyconverter\App.class
+com\currencyconverter\components\Currency.class
 com\currencyconverter\components\CurrencyConverter.class
