@@ -1,4 +1,5 @@
 com\currencyconverter\controller\CurrencyController.class
 com\currencyconverter\model\CurrencyConversion.class
+com\currencyconverter\controller\HomeController.class
 com\currencyconverter\CurrencyConverterApplication.class
 com\currencyconverter\service\CurrencyService.class
