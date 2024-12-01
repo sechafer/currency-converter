@@ -85,8 +85,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Insert License Information Here]
+MIT
 
 ## Demo
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0fsIWj8MEyo )
